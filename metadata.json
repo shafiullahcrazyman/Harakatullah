@@ -1,0 +1,7 @@
+{
+  "name": "Harakatullah",
+  "description": "An AI-powered Arabic diacritization tool that restores Tashkeel (vowel marks) to classical and Qur'anic text, featuring OCR.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
