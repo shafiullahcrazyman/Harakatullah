@@ -1,0 +1,22 @@
+{
+  "name": "Harakatullah",
+  "short_name": "Harakatullah",
+  "start_url": "/Harakatullah/",
+  "scope": "/Harakatullah/",
+  "display": "standalone",
+  "background_color": "#1d1b20",
+  "theme_color": "#1d1b20",
+  "icons": [
+    {
+      "src": "/Harakatullah/icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/Harakatullah/icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
